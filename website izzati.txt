@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html>
+<title>
+deadly flowers
+</title>
+
+<head>
+<img src="Banner.jpg" alt="flowers" width="1500" height="500">
+</head>
+
+<body>
+<div class = "column" style="background-color:#DDA0DD;">
+<h1> 1. Deadly nightshade </h1>
+<img src="deadly nightshade.jpg" alt="flowers">
+<p style="font-size:160%;">
+Deadly nightshade. Also known as 'devil's berries' or 'death cherries', the deadly nightshade plant and its berries are very poisonous and contain tropane ..
+
+</p>
+</div>
+<div class = "column" style="background-color:#FFFAF0;">
+<h1> 2. Belladonna </h1>
+<img src="Belladonna.jpg" alt="flowers">
+<p style="font-size:160%;"> 
+Belladonna. aka Deadly Nightshade. Don't be fooled by the name: Belladonna, which means “beautiful lady” in Italian, can be deadly to humans – in fact ...
+
+</p>
+</div>
+<div class = "column" style="background-color:#DDA0DD;">
+<h1> 3. Castor bean </h1>
+<img src="castor bean.jpg" alt="flowers">
+<p style="font-size:160%;">
+ Castor Bean (Ricinus communis) is known for producing castor oil which is widely used in cuisine and medicines. Yet it also produces one of the most potent ...
+
+</p>
+</div>
+<div class = "column" style="background-color:#FFFAF0;">
+<h1> 4. Daffodil </h1>
+<img src="Daffodil.jfif" alt="flowers">
+<p style="font-size:160%;">
+Daffodil. Daffodils and related plants, such as clivia and amaryllis, contain lycorine, which can cause vomiting, drooling, convulsions and irregular ...
+
+</p>
+</div>
+<div class = "column" style="background-color:#DDA0DD;">
+<h1> 5. Datura </h1>
+<img src="Datura.jpg" alt="flowers">
+<p style="font-size:160%;">
+ Datura. The poisonous plants list includes Datura, also known as jimsonweed or devil's trumpet, is a highly toxic plant found in tropical and temperate ...
+
+</p>
+</div>
+<div class = "column" style="background-color:#FFFAF0;">
+<h1> 6. Aconitum  </h1>
+<img src="Aconitum.jpg" alt="flowers">
+<p style="font-size:160%;"> 
+Aconitum. Aconitum looks like a devil's helmet because of its cap type shape but do you know these beautiful flowers can be poisonous enough to paralyse the ...
+
+</p>
+</div>
+<div class = "column" style="background-color:#DDA0DD;">
+<h1> 7. Foxglove  </h1>
+<img src="Foxglove.jpg" alt="flowers">
+<p style="font-size:160%;">
+Digitalis is a genus of about 20 species of herbaceous perennial plants, shrubs, and biennials, commonly called foxgloves. Digitalis is native to Europe, Western Asia, and northwestern Africa. 
+
+</p>
+</div>
+<div class = "column" style="background-color:#FFFAF0;">
+<h1> 8. Suicide tree  </h1>
+<img src="Suicide tree.jpg" alt="sport">
+<p style="font-size:160%;">
+The Suicide Tree (Cerbera odollam) This leafy green plant is native to India and Southern Asia. It can grow in coastal marshes but unnervingly is used as a ...
+</p>
+</div>
+
+</body>
+</html>
